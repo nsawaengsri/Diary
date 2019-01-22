@@ -1,0 +1,20 @@
+API and Web Service = communication.
+Web Servie นั้นจะอำนวยความสะดวกการสื่อสารระหว่าง machines 2 machines ที่อยู่ต่าง network กัน 
+API  = กระทำกับ 2 application ที่แตกต่างกันให้สามารถทำการสื่อสารได้ 
+API = คือวิธี การที่ให้ Third-party vendors(บุคคลที่ 3 ) ให้สามารถเขียนโปรแกรมในการติดต่อกับโปรแกรมอื่นได้
+Web Service = การออกแบบ Interface ในรูปแบบ xml
+มักจะใช้ Protocol HTTP ในการสื่อสาร  
+Web Service use SOAP,REST and XML 
+	API คือวิธีการที่ใช้โต้ตอบกันระหว่าง 2 application ที่แตกต่างกัน เช่น เมื่อต้องการ ส่ง DATA ผ่าน network Web Service จะเข้าไปยัง Picture ส่วน API จะเกี่ยวข้องกับการ เรียกใช้ Function ภายใน Program
+
+word involk
+facilitates = อำนวยความสะดวก = make (action or process ) esay or easier.
+interaction = ปฏิสัมพันธ์
+depicted = ที่ปรากฏ = show or represent 
+interrupts = ขัดจังหวะ = stop the continuous 
+exactly = อย่างแน่นอน
+merely = แค่ 
+consists = ประกอบด้วย
+exposed = ที่เปิดเผย
+whereas = แต่ทว่า
+
